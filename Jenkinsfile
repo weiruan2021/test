@@ -1,6 +1,6 @@
 pipeline {
   agent {
-    label "macOS"
+    label "macOS12.4"
   }
   stages {
     stage('1 Integrage Web and DB') {
