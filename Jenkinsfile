@@ -1,5 +1,5 @@
 pipeline {
-  agent any
+  agent "macOS"
   stages {
     stage('1 Integrage Web and DB') {
       steps {
