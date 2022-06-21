@@ -7,9 +7,7 @@ pipeline {
       steps {
         cd /Users/xiao.dong
         ls -al
-        echo '1.1  Getting applicaiton web files'
-        echo '1.2 Getting database files'
-        echo '1.3 Combing the '
+
       }
     }
 
